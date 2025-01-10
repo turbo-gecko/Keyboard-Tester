@@ -26,7 +26,15 @@ On the right of the keyboard layout, is the 4 state indicators for
 - Caps Lock
 - Insert Mode
 
+The bottom half of the screen displays the scan codes and keyboard status bytes as keys are pressed.
+
 ## Code
 The program was writtin in Microsoft Quick C (2.5) and developed on an XT (NuXT) computer. There are only 2 C files with KB.C being the main program and KB_DEF.C containing constants and the translation tables.
 
+## Binary
 KB.EXE is included for those who do not want to modify or build the software. This was compiled under MS DOS 6.22.
+
+## Possible New Features
+- Add logging to file
+- Add 101 key layout
+- Add non-US language keyboard layouts (will need help with this one)
