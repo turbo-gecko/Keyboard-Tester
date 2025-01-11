@@ -17,7 +17,7 @@ The default keyboard layout is the PC/XT 83 key layout
 ## Description
 The program is used to test keyboard codes sent to the computer as interpreted by DOS.
 
-The top half of the screen is a pictorial layout of the keyboard where keys will change colour when the are pressed.
+The top half of the screen is a pictorial layout of the keyboard where keys will change colour when they are pressed.
 Modifier keys such as 'Shift', 'Ctrl', 'Alt' etc., will show Green whilst pressed where the remainder of the keys will show blue, and remain blue, after they have been pressed once.
 
 On the right of the keyboard layout, is the 4 state indicators for
